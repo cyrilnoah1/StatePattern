@@ -1,0 +1,7 @@
+The State Pattern allows an object to alter its behavior
+when its internal state changes. The object will appear to
+change its class.
+
+In this example, we're going to implement the State pattern
+by using the daily routine of an average human being, i.e,
+wake up, eat, and then sleep to wake up again.
